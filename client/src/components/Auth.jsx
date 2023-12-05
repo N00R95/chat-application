@@ -28,7 +28,7 @@ const Auth = () => {
 
   const { username, password, phoneNumber, avatarURL } = form;
 
-  let URL = 'https://ccse-chat-app-1018d8da9cb2.herokuapp.com/auth';
+  let URL = 'https://ccse-chat-0b44d480bfeb.herokuapp.com/auth';
 
 
   try {
